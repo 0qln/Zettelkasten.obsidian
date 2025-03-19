@@ -3,5 +3,7 @@
   "templater-obsidian",
   "obsidian-footnotes",
   "table-editor-obsidian",
-  "background-image"
+  "background-image",
+  "url-into-selection",
+  "obsidian-style-settings"
 ]
