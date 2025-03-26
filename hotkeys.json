@@ -147,14 +147,6 @@
       "key": "C"
     }
   ],
-  "editor:table-row-after": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "R"
-    }
-  ],
   "editor:table-col-delete": [
     {
       "modifiers": [
@@ -162,15 +154,6 @@
         "Shift"
       ],
       "key": "C"
-    }
-  ],
-  "editor:table-row-delete": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "R"
     }
   ],
   "graph:open": [],
