@@ -1,1 +1,1 @@
-set clipboard=unnamed
+E:/tmp/Zettelkasten.obsidian/keys.obsidian/src/.vimrc

@@ -1,14 +1,1 @@
-{
-  "vimrcFileName": ".obsidian/.vimrc",
-  "displayChord": false,
-  "displayVimMode": true,
-  "fixedNormalModeLayout": false,
-  "capturedKeyboardMap": {},
-  "supportJsCommands": false,
-  "vimStatusPromptMap": {
-    "normal": "🟢",
-    "insert": "🟠",
-    "visual": "🟡",
-    "replace": "🔴"
-  }
-}
+E:/tmp/Zettelkasten.obsidian/keys.obsidian/src/plugins/obsidian-vimrc-support/data.json
