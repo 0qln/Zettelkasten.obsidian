@@ -1,1 +1,1 @@
-E:/Zettelkasten/.obsidian/appearance.obsidian/src/plugins/background-image/main.js
+../../appearance.obsidian/src/plugins/background-image/main.js

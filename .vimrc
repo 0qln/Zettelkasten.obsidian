@@ -1,1 +1,1 @@
-E:/Zettelkasten/.obsidian/keys.obsidian/src/.vimrc
+keys.obsidian/src/.vimrc
