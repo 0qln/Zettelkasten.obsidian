@@ -1,1 +1,1 @@
-E:/tmp/Zettelkasten.obsidian/appearance.obsidian/src/plugins/obsidian-style-settings/main.js
+E:/Zettelkasten/.obsidian/appearance.obsidian/src/plugins/obsidian-style-settings/main.js

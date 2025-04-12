@@ -1,1 +1,1 @@
-E:/tmp/Zettelkasten.obsidian/keys.obsidian/src/plugins/obsidian-vimrc-support/main.js
+E:/Zettelkasten/.obsidian/keys.obsidian/src/plugins/obsidian-vimrc-support/main.js
