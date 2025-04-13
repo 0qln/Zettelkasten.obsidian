@@ -1,0 +1,9 @@
+[submodule ".obsidian-setup"]
+	path = .obsidian-setup
+	url = https://github.com/0qln/.obsidian-setup
+[submodule "appearance.obsidian"]
+	path = appearance.obsidian
+	url = https://github.com/0qln/appearance.obsidian
+[submodule "keys.obsidian"]
+	path = keys.obsidian
+	url = https://github.com/0qln/keys.obsidian

@@ -1,10 +1,10 @@
 [
-  "obsidian-git",
-  "templater-obsidian",
-  "obsidian-footnotes",
-  "table-editor-obsidian",
   "background-image",
-  "url-into-selection",
+  "obsidian-footnotes",
+  "obsidian-git",
   "obsidian-style-settings",
-  "obsidian-vimrc-support"
+  "obsidian-vimrc-support",
+  "table-editor-obsidian",
+  "templater-obsidian",
+  "url-into-selection"
 ]
