@@ -5,6 +5,22 @@ This repository is an obsidian configuration, enabling you to have fun while fil
 Feel free to fork and cusomize your personal Zettelkasten.
 
 
+## Components
+
+Different components are seperated into their own repositories:
+- [git](https://github.com/0qln/git.obsidian): Backups and version control
+- [keys](https://github.com/0qln/keys.obsidian): Key bindings and Vim configuration
+- [appearance](https://github.com/0qln/appearance.obsidian): Background image, color theme, etc.
+- [zettelkasten-bundle](https://github.com/0qln/zettelkasten-bundle.obsidian): Zettelkasten specific plugins (e.g. templates, footnotes)
+
+This is such that you can decide which modules you want, and that the version controls don't clutter each other:
+Don't want vim bindings? Don't include the keys repository.
+Don't want the default appearance? Create your own repository or fork the default one.
+etc.
+
+The .obsidian-setup repository contains a helper script for setting up symlinks and copies.
+
+
 ## File tree
 
 The file structure will look something like this:
