@@ -7,3 +7,6 @@
 [submodule "keys.obsidian"]
 	path = keys.obsidian
 	url = https://github.com/0qln/keys.obsidian
+[submodule "git.obsidian"]
+	path = git.obsidian
+	url = https://github.com/0qln/git.obsidian
