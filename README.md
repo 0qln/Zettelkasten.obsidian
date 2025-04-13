@@ -2,9 +2,7 @@
 
 ## Usage
 
-**Prerequisits**: 
-
-Python
+**Prerequisits**: Python
 
 
 **Installation**: 
