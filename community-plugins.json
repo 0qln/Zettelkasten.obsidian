@@ -1,11 +1,11 @@
 [
-    "background-image",
-    "editor-width-slider",
-    "obsidian-footnotes",
-    "obsidian-git",
-    "obsidian-style-settings",
-    "obsidian-vimrc-support",
-    "table-editor-obsidian",
-    "templater-obsidian",
-    "url-into-selection"
+  "background-image",
+  "editor-width-slider",
+  "obsidian-footnotes",
+  "obsidian-git",
+  "obsidian-style-settings",
+  "obsidian-vimrc-support",
+  "templater-obsidian",
+  "url-into-selection",
+  "table-editor-obsidian"
 ]

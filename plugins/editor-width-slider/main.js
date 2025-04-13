@@ -1,0 +1,1 @@
+../../appearance.obsidian/src/plugins/editor-width-slider/main.js
