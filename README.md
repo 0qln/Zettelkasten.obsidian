@@ -7,8 +7,6 @@ Feel free to fork and cusomize your personal Zettelkasten.
 
 ## Components
 
-You can use the components in other vaults as well. e.g. the [appearance](https://github.com/0qln/appearance.obsidian) component, has nothing to do with the Zettelkasten mythology in itself.
-
 Different components are seperated into their own repositories:
 - [git](https://github.com/0qln/git.obsidian): Backups and version control
 - [keys](https://github.com/0qln/keys.obsidian): Key bindings and Vim configuration
@@ -19,6 +17,8 @@ This is such that you can decide which modules you want, and that the version co
 Don't want vim bindings? Don't include the keys repository.
 Don't want the default appearance? Create your own repository or fork the default one.
 etc.
+
+You can use the components in other vaults as well. e.g. the [appearance](https://github.com/0qln/appearance.obsidian) component, has nothing to do with the Zettelkasten mythology in itself.
 
 The .obsidian-setup repository contains a helper script for setting up symlinks and copies.
 
