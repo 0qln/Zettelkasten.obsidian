@@ -10,3 +10,6 @@
 [submodule "git.obsidian"]
 	path = git.obsidian
 	url = https://github.com/0qln/git.obsidian
+[submodule "zettelkasten-bundle.obsidian"]
+	path = zettelkasten-bundle.obsidian
+	url = https://github.com/0qln/zettelkasten-bundle.obsidian
