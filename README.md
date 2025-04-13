@@ -14,7 +14,7 @@ Python
 git clone --recurse-submodules https://github.com/0qln/Zettelkasten.obsidian Path/to/myVault/.obsidian
 ```
 
-2. Execute the .obsidian-setup/setup.py script:
+2. Execute the [.obsidian-setup/setup.py script](https://github.com/0qln/.obsidian-setup):
 ```
 py Path/to/myVault/.obsidian/.obsidian-setup/setup.py
 ```
