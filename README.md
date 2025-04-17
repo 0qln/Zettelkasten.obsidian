@@ -4,6 +4,8 @@ This repository is an obsidian configuration, enabling you to have fun while fil
 
 Feel free to fork and cusomize your personal Zettelkasten.
 
+If you prefer to not use the individual components, because it might seem like overengineering, you can select the [monolith branch](https://github.com/0qln/Zettelkasten.obsidian/tree/monolith).
+
 
 ## Components
 
