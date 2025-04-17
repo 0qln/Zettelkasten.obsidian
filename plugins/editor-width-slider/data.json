@@ -1,1 +1,5 @@
-../../appearance.obsidian/src/plugins/editor-width-slider/data.json
+{
+  "sliderPercentage": "70",
+  "sliderPercentageDefault": "20",
+  "sliderWidth": "150"
+}

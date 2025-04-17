@@ -1,1 +1,8 @@
-../../zettelkasten-bundle.obsidian/src/plugins/url-into-selection/manifest.json
+{
+  "id": "url-into-selection",
+  "name": "Paste URL into selection",
+  "description": "Paste URL \"into\" selected text.",
+  "isDesktopOnly": false,
+  "js": "main.js",
+  "version": "1.7.0"
+}

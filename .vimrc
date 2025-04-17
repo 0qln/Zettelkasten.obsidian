@@ -1,1 +1,1 @@
-keys.obsidian/src/.vimrc
+set clipboard=unnamed

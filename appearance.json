@@ -1,1 +1,5 @@
-appearance.obsidian/src/appearance.json
+{
+  "baseFontSize": 18,
+  "cssTheme": "Vicious",
+  "theme": "obsidian"
+}

@@ -1,1 +1,6 @@
-../../zettelkasten-bundle.obsidian/src/plugins/table-editor-obsidian/data.json
+{
+  "formatType": "normal",
+  "showRibbonIcon": true,
+  "bindEnter": true,
+  "bindTab": true
+}

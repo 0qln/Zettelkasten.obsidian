@@ -1,1 +1,6 @@
-../../appearance.obsidian/src/plugins/obsidian-style-settings/data.json
+{
+  "vicious@@scrollbar-hide": true,
+  "vicious@@vibrant-indents": false,
+  "vicious@@vibrant-folders": true,
+  "vicious@@callout Style": "callout-style-01"
+}
