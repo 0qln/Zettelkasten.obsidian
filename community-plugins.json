@@ -7,5 +7,6 @@
   "obsidian-vimrc-support",
   "table-editor-obsidian",
   "templater-obsidian",
-  "url-into-selection"
+  "url-into-selection",
+  "execute-code"
 ]
