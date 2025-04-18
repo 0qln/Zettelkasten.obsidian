@@ -1,0 +1,8 @@
+{
+  "snapToObjects": true,
+  "snapToGrid": false,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Canvas",
+  "defaultWheelBehavior": "zoom",
+  "cardLabelVisibility": "always"
+}

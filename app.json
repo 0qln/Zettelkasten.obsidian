@@ -12,5 +12,6 @@
     "downscalePercent": 100
   },
   "readableLineLength": true,
-  "rightToLeft": false
+  "rightToLeft": false,
+  "showInlineTitle": false
 }
