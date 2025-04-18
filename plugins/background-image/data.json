@@ -2,6 +2,6 @@
   "imageUrl": "",
   "opacity": 0.3,
   "bluriness": "0px",
-  "inputContrast": true,
+  "inputContrast": false,
   "position": "left"
 }
