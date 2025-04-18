@@ -204,5 +204,13 @@
     }
   ],
   "file-explorer:new-file": [],
-  "templater-obsidian:create-new-note-from-template": []
+  "templater-obsidian:create-new-note-from-template": [],
+  "templater-obsidian:jump-to-next-cursor-location": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "Enter"
+    }
+  ]
 }
