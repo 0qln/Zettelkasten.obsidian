@@ -16,7 +16,7 @@
   "folder_templates": [
     {
       "folder": "Notes",
-      "template": "Templates/Note.md"
+      "template": "Templates/CreateNote.md"
     }
   ],
   "enable_file_templates": false,
