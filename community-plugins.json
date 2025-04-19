@@ -15,5 +15,10 @@
   "collapse-node",
   "card-note",
   "obsidian-gist",
-  "github-embeds"
+  "github-embeds",
+  "link-nodes-in-canvas",
+  "multi-properties",
+  "multi-tag",
+  "semantic-canvas",
+  "obsidian-share-as-gist"
 ]
