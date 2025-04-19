@@ -1,0 +1,7 @@
+{
+  "includeFrontMatter": false,
+  "enableUpdatingGistsAfterCreation": true,
+  "enableAutoSaving": false,
+  "showAutoSaveNotice": false,
+  "includeTableOfContents": false
+}
