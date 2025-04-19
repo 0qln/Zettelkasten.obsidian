@@ -1,2 +1,3 @@
 workspace.json
 workspaces.json
+plugins/github-embeds/data.json
