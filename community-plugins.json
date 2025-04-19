@@ -13,5 +13,7 @@
   "text-extractor",
   "ai-image-analyzer",
   "collapse-node",
-  "card-note"
+  "card-note",
+  "obsidian-gist",
+  "github-embeds"
 ]
