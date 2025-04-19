@@ -8,5 +8,10 @@
   "table-editor-obsidian",
   "templater-obsidian",
   "url-into-selection",
-  "execute-code"
+  "execute-code",
+  "omnisearch",
+  "text-extractor",
+  "ai-image-analyzer",
+  "collapse-node",
+  "card-note"
 ]
