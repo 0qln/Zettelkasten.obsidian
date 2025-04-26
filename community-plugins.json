@@ -20,5 +20,6 @@
   "multi-properties",
   "multi-tag",
   "semantic-canvas",
-  "obsidian-share-as-gist"
+  "obsidian-share-as-gist",
+  "file-title-updater"
 ]

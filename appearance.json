@@ -1,5 +1,10 @@
 {
   "baseFontSize": 18,
-  "cssTheme": "Vicious",
-  "theme": "obsidian"
+  "cssTheme": "Encore",
+  "theme": "obsidian",
+  "showViewHeader": false,
+  "showRibbon": true,
+  "nativeMenus": false,
+  "textFontFamily": "IBM Plex Serif,IBM Plex Serif Medium",
+  "interfaceFontFamily": ""
 }
