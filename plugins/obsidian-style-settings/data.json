@@ -5,7 +5,7 @@
   "vicious@@callout Style": "callout-style-01",
   "encore-settings@@encore-translucency": true,
   "encore-settings@@encore-translucency-image": "url(\"https://w.wallhaven.cc/full/y8/wallhaven-y82xll.png\")",
-  "encore-settings@@encore-translucency-blur-amount": 2,
+  "encore-settings@@encore-translucency-blur-amount": 3,
   "encore-settings@@encore-translucency-strength": 0.2,
   "encore-settings@@encore-coloured-tooltip": true,
   "encore-settings@@encore-highlight-border": false,
@@ -14,5 +14,5 @@
   "encore-settings@@encore-fancy-headers": false,
   "encore-settings@@theme-dark": "encore-theme-dark-flexoki",
   "encore-settings@@colors": "encore-colors-colorful",
-  "encore-settings@@encore-disable-logo-on-hr": false
+  "encore-settings@@encore-disable-logo-on-hr": true
 }
