@@ -21,5 +21,6 @@
   "multi-tag",
   "semantic-canvas",
   "obsidian-share-as-gist",
-  "file-title-updater"
+  "file-title-updater",
+  "obsidian-front-matter-title-plugin"
 ]
