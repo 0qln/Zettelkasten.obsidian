@@ -239,7 +239,7 @@
         "Mod",
         "Shift"
       ],
-      "key": "]"
+      "key": "["
     }
   ],
   "app:toggle-right-sidebar": [
@@ -248,7 +248,7 @@
         "Mod",
         "Shift"
       ],
-      "key": "["
+      "key": "]"
     }
   ]
 }
