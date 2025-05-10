@@ -8,6 +8,7 @@
   "textFontFamily": "IBM Plex Serif,IBM Plex Serif Medium",
   "interfaceFontFamily": "",
   "enabledCssSnippets": [
-    "transparency"
+    "transparency",
+    "upsize_latex"
   ]
 }
