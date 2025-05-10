@@ -88,7 +88,15 @@
   ],
   "editor:open-link-in-new-leaf": [],
   "editor:open-link-in-new-window": [],
-  "editor:open-link-in-new-split": [],
+  "editor:open-link-in-new-split": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "Enter"
+    }
+  ],
   "pane-relief:go-next": [],
   "pane-relief:go-prev": [],
   "pane-relief:go-1st": [],
