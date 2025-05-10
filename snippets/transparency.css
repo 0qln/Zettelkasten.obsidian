@@ -1,0 +1,11 @@
+:root {
+    --code-background: rgb(27 27 27 / 23%) !important;
+}
+
+.HyperMD-codeblock.HyperMD-codeblock-bg {
+    background-color: rgb(27 27 27 / 23%) !important;
+}
+
+.math.math-block.cm-embed-block:hover {
+    background-color: rgb(27 27 27 / 23%) !important;
+}

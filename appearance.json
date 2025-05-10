@@ -6,5 +6,8 @@
   "showRibbon": true,
   "nativeMenus": false,
   "textFontFamily": "IBM Plex Serif,IBM Plex Serif Medium",
-  "interfaceFontFamily": ""
+  "interfaceFontFamily": "",
+  "enabledCssSnippets": [
+    "transparency"
+  ]
 }
